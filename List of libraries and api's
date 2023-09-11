@@ -1,0 +1,28 @@
+the process of building this module is done by using the following lines of code which lets you know to download required :
+
+ subprocess
+ wolframalpha
+ pyttsx3
+ tkinter
+ json
+ random
+ operator
+ speech_recognition as sr
+ datetime
+ wikipedia
+ webbrowser
+ os
+ winshell
+ pyjokes
+ feedparser
+ smtplib
+ ctypes
+ time
+ requests
+ shutil
+ twilio.rest
+ clint.textui  
+ ecapture  
+ bs4  
+ win32com.client 
+ urllib.request  
